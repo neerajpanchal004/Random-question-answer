@@ -42,7 +42,7 @@ const Card = () => {
                 </div>
                 
             </div>
-            <div className=' p-5 bg-slate-200 text-center relative bottom-1' >
+            <div className=' p-5 bg-slate-200 text-center fixed bottom-0 w-full' >
                 <Link href="https://github.com/neerajpanchal004" >Made with❤️ by <span className='underline text-blue-600'>Neeraj panchal</span></Link>
             </div>
         </>
